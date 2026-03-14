@@ -6003,8 +6003,7 @@
           "sub_standby",
           "sub_auto_call",
           "sub_call_at_battle"
-        ],
-        "display": "hide"
+        ]
       },
       "CallAtBattle": {
         "type": "input",
