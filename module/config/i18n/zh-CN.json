@@ -1049,7 +1049,8 @@
       "help": "",
       "not_in_dormitory": "未放置于后宅 (20/h)",
       "dormitory_floor_1": "后宅一层 (40/h)",
-      "dormitory_floor_2": "后宅二层 (50/h)"
+      "dormitory_floor_2": "后宅二层 (50/h)",
+      "spring": "二层温泉 (60/h)"
     },
     "Fleet1Oath": {
       "name": "一队全员已婚 (+10/h)",
@@ -1076,7 +1077,8 @@
       "help": "",
       "not_in_dormitory": "未放置于后宅 (20/h)",
       "dormitory_floor_1": "后宅一层 (40/h)",
-      "dormitory_floor_2": "后宅二层 (50/h)"
+      "dormitory_floor_2": "后宅二层 (50/h)",
+      "spring": "二层温泉 (60/h)"
     },
     "Fleet2Oath": {
       "name": "二队全员已婚 (+10/h)",

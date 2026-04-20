@@ -1049,7 +1049,8 @@
       "help": "Configure accordingly to accurately calculate emotion",
       "not_in_dormitory": "Docks (20/hr)",
       "dormitory_floor_1": "Dorm Floor 1 (40/hr)",
-      "dormitory_floor_2": "Dorm Floor 2 (50/hr)"
+      "dormitory_floor_2": "Dorm Floor 2 (50/hr)",
+      "spring": "Spring (60/hr)"
     },
     "Fleet1Oath": {
       "name": "Fleet 1 All Oath",
@@ -1076,7 +1077,8 @@
       "help": "",
       "not_in_dormitory": "Docks (20/hr)",
       "dormitory_floor_1": "Dorm Floor 1 (40/hr)",
-      "dormitory_floor_2": "Dorm Floor 2 (50/hr)"
+      "dormitory_floor_2": "Dorm Floor 2 (50/hr)",
+      "spring": "Spring (60/hr)"
     },
     "Fleet2Oath": {
       "name": "Fleet 2 All Oath",

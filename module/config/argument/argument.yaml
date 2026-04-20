@@ -225,7 +225,7 @@ Emotion:
     option: [ keep_exp_bonus, prevent_green_face, prevent_yellow_face, prevent_red_face ]
   Fleet1Recover:
     value: not_in_dormitory
-    option: [ not_in_dormitory, dormitory_floor_1, dormitory_floor_2 ]
+    option: [ not_in_dormitory, dormitory_floor_1, dormitory_floor_2, spring ]
   Fleet1Oath: false
   Fleet2Value: 119
   Fleet2Record:
@@ -236,7 +236,7 @@ Emotion:
     option: [ keep_exp_bonus, prevent_green_face, prevent_yellow_face, prevent_red_face ]
   Fleet2Recover:
     value: not_in_dormitory
-    option: [ not_in_dormitory, dormitory_floor_1, dormitory_floor_2 ]
+    option: [ not_in_dormitory, dormitory_floor_1, dormitory_floor_2, spring ]
   Fleet2Oath: false
 HpControl:
   UseHpBalance: false

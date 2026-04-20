@@ -1049,7 +1049,8 @@
       "help": "Emotion.Fleet1Recover.help",
       "not_in_dormitory": "not_in_dormitory",
       "dormitory_floor_1": "dormitory_floor_1",
-      "dormitory_floor_2": "dormitory_floor_2"
+      "dormitory_floor_2": "dormitory_floor_2",
+      "spring": "spring"
     },
     "Fleet1Oath": {
       "name": "Emotion.Fleet1Oath.name",
@@ -1076,7 +1077,8 @@
       "help": "Emotion.Fleet2Recover.help",
       "not_in_dormitory": "not_in_dormitory",
       "dormitory_floor_1": "dormitory_floor_1",
-      "dormitory_floor_2": "dormitory_floor_2"
+      "dormitory_floor_2": "dormitory_floor_2",
+      "spring": "spring"
     },
     "Fleet2Oath": {
       "name": "Emotion.Fleet2Oath.name",

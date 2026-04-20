@@ -717,7 +717,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -750,7 +751,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -1105,7 +1107,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -1138,7 +1141,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -1493,7 +1497,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -1526,7 +1531,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -2218,7 +2224,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -2251,7 +2258,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -2624,7 +2632,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -2657,7 +2666,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -2907,7 +2917,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -2942,7 +2953,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -3078,7 +3090,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -3115,7 +3128,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -3326,7 +3340,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -3361,7 +3376,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -3952,7 +3968,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -3985,7 +4002,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -4375,7 +4393,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -4408,7 +4427,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -4798,7 +4818,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -4831,7 +4852,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -5221,7 +5243,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -5254,7 +5277,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -5644,7 +5668,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -5677,7 +5702,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -6057,7 +6083,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -6090,7 +6117,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -6331,7 +6359,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -6366,7 +6395,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -6578,7 +6608,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -6613,7 +6644,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
