@@ -1001,11 +1001,20 @@
       "hunt_and_boss": "hunt_and_boss",
       "every_combat": "every_combat"
     },
+    "CallDelay": {
+      "name": "Submarine.CallDelay.name",
+      "help": "Submarine.CallDelay.help"
+    },
     "AutoSearchMode": {
       "name": "Submarine.AutoSearchMode.name",
       "help": "Submarine.AutoSearchMode.help",
       "sub_standby": "sub_standby",
-      "sub_auto_call": "sub_auto_call"
+      "sub_auto_call": "sub_auto_call",
+      "sub_call_at_battle": "sub_call_at_battle"
+    },
+    "CallAtBattle": {
+      "name": "Submarine.CallAtBattle.name",
+      "help": "Submarine.CallAtBattle.help"
     },
     "DistanceToBoss": {
       "name": "Submarine.DistanceToBoss.name",
@@ -1049,7 +1058,8 @@
       "help": "Emotion.Fleet1Recover.help",
       "not_in_dormitory": "not_in_dormitory",
       "dormitory_floor_1": "dormitory_floor_1",
-      "dormitory_floor_2": "dormitory_floor_2"
+      "dormitory_floor_2": "dormitory_floor_2",
+      "spring": "spring"
     },
     "Fleet1Oath": {
       "name": "Emotion.Fleet1Oath.name",
@@ -1076,7 +1086,8 @@
       "help": "Emotion.Fleet2Recover.help",
       "not_in_dormitory": "not_in_dormitory",
       "dormitory_floor_1": "dormitory_floor_1",
-      "dormitory_floor_2": "dormitory_floor_2"
+      "dormitory_floor_2": "dormitory_floor_2",
+      "spring": "spring"
     },
     "Fleet2Oath": {
       "name": "Emotion.Fleet2Oath.name",

@@ -50,9 +50,11 @@ class OpsiHazard1Leveling(OSMap):
             else:
                 zone = 22
             logger.hr(f'OS hazard 1 leveling, zone_id={zone}', level=1)
+            self.fleet_set(self.config.OpsiFleet_Fleet)
             if self.zone.zone_id != zone or not self.is_zone_name_hidden:
                 self.globe_goto(self.name_to_zone(zone), types='SAFE', refresh=True)
-            self.fleet_set(self.config.OpsiFleet_Fleet)
+                self.run_auto_search()
+                self.handle_after_auto_search()
             self.run_strategic_search()
 
             self.handle_after_auto_search()

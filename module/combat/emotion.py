@@ -19,11 +19,13 @@ DIC_RECOVER = {
     'not_in_dormitory': 20,
     'dormitory_floor_1': 40,
     'dormitory_floor_2': 50,
+    'spring': 60,
 }
 DIC_RECOVER_MAX = {
     'not_in_dormitory': 119,
     'dormitory_floor_1': 150,
     'dormitory_floor_2': 150,
+    'spring': 150,
 }
 OATH_RECOVER = 10
 
@@ -67,7 +69,7 @@ class FleetEmotion:
     def recover(self):
         """
         Returns:
-            str: not_in_dormitory, dormitory_floor_1, dormitory_floor_2
+            str: not_in_dormitory, dormitory_floor_1, dormitory_floor_2, spring
         """
         return getattr(self.config, f'Emotion_Fleet{self.fleet}Recover')
 

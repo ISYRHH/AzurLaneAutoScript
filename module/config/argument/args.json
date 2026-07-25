@@ -655,13 +655,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -710,7 +719,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -743,7 +753,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -1034,13 +1045,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -1089,7 +1109,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -1122,7 +1143,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -1413,13 +1435,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -1468,7 +1499,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -1501,7 +1533,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -2517,13 +2550,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -2572,7 +2614,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -2605,7 +2648,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -2912,13 +2956,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -2967,7 +3020,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -3000,7 +3054,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -3250,7 +3305,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -3285,7 +3341,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -3421,7 +3478,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -3458,7 +3516,258 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
+        ],
+        "display": "hide"
+      },
+      "Fleet2Oath": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      }
+    },
+    "Storage": {
+      "Storage": {
+        "type": "storage",
+        "value": {},
+        "valuetype": "ignore",
+        "display": "disabled"
+      }
+    }
+  },
+  "MaritimeEscort": {
+    "Scheduler": {
+      "Enable": {
+        "type": "checkbox",
+        "value": false,
+        "option": [
+          true,
+          false
+        ]
+      },
+      "NextRun": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime"
+      },
+      "Command": {
+        "type": "input",
+        "value": "Coalition",
+        "display": "hide"
+      },
+      "SuccessInterval": {
+        "type": "input",
+        "value": 30,
+        "display": "hide"
+      },
+      "FailureInterval": {
+        "type": "input",
+        "value": 30,
+        "display": "hide"
+      },
+      "ServerUpdate": {
+        "type": "input",
+        "value": "00:00",
+        "display": "hide"
+      }
+    },
+    "Campaign": {
+      "Name": {
+        "type": "input",
+        "value": "dynamic",
+        "display": "hide"
+      },
+      "Event": {
+        "type": "select",
+        "value": "campaign_main",
+        "option": [
+          "coalition_20230323",
+          "coalition_20260122"
+        ],
+        "option_cn": [
+          "coalition_20260122"
+        ],
+        "option_en": [
+          "coalition_20260122"
+        ],
+        "option_jp": [
+          "coalition_20260122"
+        ],
+        "option_tw": [
+          "coalition_20230323"
+        ],
+        "option_bold": [
+          "coalition_20230323",
+          "coalition_20260122"
+        ]
+      },
+      "Mode": {
+        "type": "select",
+        "value": "normal",
+        "option": [
+          "normal",
+          "hard"
+        ],
+        "display": "hide"
+      },
+      "UseClearMode": {
+        "type": "checkbox",
+        "value": true,
+        "display": "hide"
+      },
+      "UseFleetLock": {
+        "type": "checkbox",
+        "value": true,
+        "display": "hide"
+      },
+      "UseAutoSearch": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "Use2xBook": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "AmbushEvade": {
+        "type": "checkbox",
+        "value": true,
+        "display": "hide"
+      }
+    },
+    "Coalition": {
+      "Mode": {
+        "type": "select",
+        "value": "tc3",
+        "option": [
+          "tc1",
+          "tc2",
+          "tc3",
+          "ex"
+        ]
+      },
+      "Fleet": {
+        "type": "select",
+        "value": "single",
+        "option": [
+          "single",
+          "multi"
+        ]
+      }
+    },
+    "StopCondition": {
+      "OilLimit": {
+        "type": "input",
+        "value": 1000
+      },
+      "RunCount": {
+        "type": "input",
+        "value": 0
+      },
+      "MapAchievement": {
+        "type": "select",
+        "value": "non_stop",
+        "option": [
+          "non_stop",
+          "100_percent_clear",
+          "map_3_stars",
+          "threat_safe",
+          "threat_safe_without_3_stars"
+        ],
+        "display": "hide"
+      },
+      "StageIncrease": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "GetNewShip": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "ReachLevel": {
+        "type": "input",
+        "value": 0,
+        "display": "hide"
+      }
+    },
+    "Emotion": {
+      "Mode": {
+        "type": "select",
+        "value": "calculate",
+        "option": [
+          "calculate",
+          "ignore",
+          "calculate_ignore"
+        ]
+      },
+      "Fleet1Value": {
+        "type": "input",
+        "value": 119
+      },
+      "Fleet1Record": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime",
+        "display": "disabled"
+      },
+      "Fleet1Control": {
+        "type": "select",
+        "value": "prevent_green_face",
+        "option": [
+          "keep_exp_bonus",
+          "prevent_green_face",
+          "prevent_yellow_face",
+          "prevent_red_face"
+        ]
+      },
+      "Fleet1Recover": {
+        "type": "select",
+        "value": "not_in_dormitory",
+        "option": [
+          "not_in_dormitory",
+          "dormitory_floor_1",
+          "dormitory_floor_2",
+          "spring"
+        ]
+      },
+      "Fleet1Oath": {
+        "type": "checkbox",
+        "value": false
+      },
+      "Fleet2Value": {
+        "type": "input",
+        "value": 119,
+        "display": "hide"
+      },
+      "Fleet2Record": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime",
+        "display": "hide"
+      },
+      "Fleet2Control": {
+        "type": "select",
+        "value": "prevent_yellow_face",
+        "option": [
+          "keep_exp_bonus",
+          "prevent_green_face",
+          "prevent_yellow_face",
+          "prevent_red_face"
+        ],
+        "display": "hide"
+      },
+      "Fleet2Recover": {
+        "type": "select",
+        "value": "not_in_dormitory",
+        "option": [
+          "not_in_dormitory",
+          "dormitory_floor_1",
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -4005,13 +4314,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -4060,7 +4378,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -4093,7 +4412,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -4666,13 +4986,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -4721,7 +5050,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -4754,7 +5084,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -5078,13 +5409,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -5133,7 +5473,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -5166,7 +5507,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -5490,13 +5832,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -5545,7 +5896,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -5578,7 +5930,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -5902,13 +6255,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
+          "sub_auto_call",
+          "sub_call_at_battle"
         ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -5957,7 +6319,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -5990,7 +6353,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -6304,14 +6668,22 @@
           "every_combat"
         ]
       },
+      "CallDelay": {
+        "type": "input",
+        "value": 0
+      },
       "AutoSearchMode": {
         "type": "select",
         "value": "sub_standby",
         "option": [
           "sub_standby",
-          "sub_auto_call"
-        ],
-        "display": "hide"
+          "sub_auto_call",
+          "sub_call_at_battle"
+        ]
+      },
+      "CallAtBattle": {
+        "type": "input",
+        "value": ""
       },
       "DistanceToBoss": {
         "type": "select",
@@ -6360,7 +6732,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -6393,7 +6766,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet2Oath": {
@@ -6634,7 +7008,8 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
         ]
       },
       "Fleet1Oath": {
@@ -6669,7 +7044,260 @@
         "option": [
           "not_in_dormitory",
           "dormitory_floor_1",
-          "dormitory_floor_2"
+          "dormitory_floor_2",
+          "spring"
+        ],
+        "display": "hide"
+      },
+      "Fleet2Oath": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      }
+    },
+    "Storage": {
+      "Storage": {
+        "type": "storage",
+        "value": {},
+        "valuetype": "ignore",
+        "display": "disabled"
+      }
+    }
+  },
+  "CoalitionSp": {
+    "Scheduler": {
+      "Enable": {
+        "type": "checkbox",
+        "value": false,
+        "option": [
+          true,
+          false
+        ]
+      },
+      "NextRun": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime"
+      },
+      "Command": {
+        "type": "input",
+        "value": "CoalitionSp",
+        "display": "hide"
+      },
+      "SuccessInterval": {
+        "type": "input",
+        "value": 30,
+        "display": "hide"
+      },
+      "FailureInterval": {
+        "type": "input",
+        "value": 30,
+        "display": "hide"
+      },
+      "ServerUpdate": {
+        "type": "input",
+        "value": "00:00",
+        "display": "hide"
+      }
+    },
+    "Campaign": {
+      "Name": {
+        "type": "input",
+        "value": "sp",
+        "display": "hide"
+      },
+      "Event": {
+        "type": "select",
+        "value": "campaign_main",
+        "option": [
+          "coalition_20230323",
+          "coalition_20260122"
+        ],
+        "option_cn": [
+          "coalition_20260122"
+        ],
+        "option_en": [
+          "coalition_20260122"
+        ],
+        "option_jp": [
+          "coalition_20260122"
+        ],
+        "option_tw": [
+          "coalition_20230323"
+        ],
+        "option_bold": [
+          "coalition_20230323",
+          "coalition_20260122"
+        ]
+      },
+      "Mode": {
+        "type": "select",
+        "value": "normal",
+        "option": [
+          "normal",
+          "hard"
+        ],
+        "display": "hide"
+      },
+      "UseClearMode": {
+        "type": "checkbox",
+        "value": true,
+        "display": "hide"
+      },
+      "UseFleetLock": {
+        "type": "checkbox",
+        "value": true,
+        "display": "hide"
+      },
+      "UseAutoSearch": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "Use2xBook": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "AmbushEvade": {
+        "type": "checkbox",
+        "value": true,
+        "display": "hide"
+      }
+    },
+    "Coalition": {
+      "Mode": {
+        "type": "select",
+        "value": "sp",
+        "option": [
+          "tc1",
+          "tc2",
+          "tc3",
+          "sp",
+          "ex"
+        ],
+        "display": "hide"
+      },
+      "Fleet": {
+        "type": "select",
+        "value": "single",
+        "option": [
+          "single",
+          "multi"
+        ]
+      }
+    },
+    "StopCondition": {
+      "OilLimit": {
+        "type": "input",
+        "value": 1000
+      },
+      "RunCount": {
+        "type": "input",
+        "value": 0
+      },
+      "MapAchievement": {
+        "type": "select",
+        "value": "non_stop",
+        "option": [
+          "non_stop",
+          "100_percent_clear",
+          "map_3_stars",
+          "threat_safe",
+          "threat_safe_without_3_stars"
+        ],
+        "display": "hide"
+      },
+      "StageIncrease": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "GetNewShip": {
+        "type": "checkbox",
+        "value": false,
+        "display": "hide"
+      },
+      "ReachLevel": {
+        "type": "input",
+        "value": 0,
+        "display": "hide"
+      }
+    },
+    "Emotion": {
+      "Mode": {
+        "type": "select",
+        "value": "calculate",
+        "option": [
+          "calculate",
+          "ignore",
+          "calculate_ignore"
+        ]
+      },
+      "Fleet1Value": {
+        "type": "input",
+        "value": 119
+      },
+      "Fleet1Record": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime",
+        "display": "disabled"
+      },
+      "Fleet1Control": {
+        "type": "select",
+        "value": "prevent_green_face",
+        "option": [
+          "keep_exp_bonus",
+          "prevent_green_face",
+          "prevent_yellow_face",
+          "prevent_red_face"
+        ]
+      },
+      "Fleet1Recover": {
+        "type": "select",
+        "value": "not_in_dormitory",
+        "option": [
+          "not_in_dormitory",
+          "dormitory_floor_1",
+          "dormitory_floor_2",
+          "spring"
+        ]
+      },
+      "Fleet1Oath": {
+        "type": "checkbox",
+        "value": false
+      },
+      "Fleet2Value": {
+        "type": "input",
+        "value": 119,
+        "display": "hide"
+      },
+      "Fleet2Record": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime",
+        "display": "hide"
+      },
+      "Fleet2Control": {
+        "type": "select",
+        "value": "prevent_yellow_face",
+        "option": [
+          "keep_exp_bonus",
+          "prevent_green_face",
+          "prevent_yellow_face",
+          "prevent_red_face"
+        ],
+        "display": "hide"
+      },
+      "Fleet2Recover": {
+        "type": "select",
+        "value": "not_in_dormitory",
+        "option": [
+          "not_in_dormitory",
+          "dormitory_floor_1",
+          "dormitory_floor_2",
+          "spring"
         ],
         "display": "hide"
       },
@@ -6858,13 +7486,11 @@
   "Research": {
     "Scheduler": {
       "Enable": {
-        "type": "lock",
+        "type": "checkbox",
         "value": true,
         "option": [
-          true
-        ],
-        "option_bold": [
-          true
+          true,
+          false
         ]
       },
       "NextRun": {

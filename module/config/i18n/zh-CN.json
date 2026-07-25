@@ -286,7 +286,7 @@
     },
     "Enable": {
       "name": "启用该功能",
-      "help": "将这个任务加入调度器\n委托、科研、收获任务是强制打开的",
+      "help": "将这个任务加入调度器\n委托、收获任务是强制打开的",
       "True": "已启用",
       "False": "False"
     },
@@ -994,18 +994,27 @@
     },
     "Mode": {
       "name": "潜艇出击方案",
-      "help": "仅在自律寻敌关闭的情况下生效，提醒: '狩猎及BOSS战'为'仅狩猎'与'仅BOSS战'的混合，它会在道中进行狩猎打击，并在BOSS战尝试召唤潜艇。",
+      "help": "仅在自律寻敌关闭的情况下生效。提醒: '狩猎及BOSS战'为'仅狩猎'与'仅BOSS战'的混合，它会在道中进行狩猎打击，并在BOSS战尝试召唤潜艇。",
       "do_not_use": "不使用",
       "hunt_only": "仅狩猎",
       "boss_only": "仅BOSS战",
       "hunt_and_boss": "狩猎及BOSS战",
       "every_combat": "每战出击"
     },
+    "CallDelay": {
+      "name": "潜艇召唤延迟 (秒)",
+      "help": "在战斗开始后等待x秒再点击潜艇支援。使用0表示立即召唤。"
+    },
     "AutoSearchMode": {
       "name": "潜艇自律方案",
-      "help": "仅在自律寻敌下生效",
+      "help": "仅在自律寻敌下生效。待机：不主动召唤；自动召唤潜艇：由游戏自律系统处理；控制召唤潜艇：手动指定在哪些战斗召唤。",
       "sub_standby": "待机",
-      "sub_auto_call": "自动召唤潜艇"
+      "sub_auto_call": "自动召唤潜艇",
+      "sub_call_at_battle": "控制召唤潜艇"
+    },
+    "CallAtBattle": {
+      "name": "在指定战斗召唤潜艇",
+      "help": "仅在'潜艇自律方案'为'控制召唤潜艇'时生效。\n输入逗号分隔的战斗编号（从 0 开始），如 '0,3,5' 表示在第 1 战、第 4 战和第 6 战召唤潜艇。\n留空则不召唤。遵守'潜艇召唤延迟'设置。"
     },
     "DistanceToBoss": {
       "name": "BOSS战前将潜艇移动到BOSS附近",
@@ -1049,7 +1058,8 @@
       "help": "",
       "not_in_dormitory": "未放置于后宅 (20/h)",
       "dormitory_floor_1": "后宅一层 (40/h)",
-      "dormitory_floor_2": "后宅二层 (50/h)"
+      "dormitory_floor_2": "后宅二层 (50/h)",
+      "spring": "二层温泉 (60/h)"
     },
     "Fleet1Oath": {
       "name": "一队全员已婚 (+10/h)",
@@ -1076,7 +1086,8 @@
       "help": "",
       "not_in_dormitory": "未放置于后宅 (20/h)",
       "dormitory_floor_1": "后宅一层 (40/h)",
-      "dormitory_floor_2": "后宅二层 (50/h)"
+      "dormitory_floor_2": "后宅二层 (50/h)",
+      "spring": "二层温泉 (60/h)"
     },
     "Fleet2Oath": {
       "name": "二队全员已婚 (+10/h)",
