@@ -1697,7 +1697,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -1710,10 +1709,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -2104,7 +2102,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -2117,10 +2114,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -2512,7 +2508,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -2525,10 +2520,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -2937,22 +2931,24 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "raid_20260212"
+          "raid_20260212",
+          "raid_20260827"
         ],
         "option_cn": [
-          "raid_20260212"
+          "raid_20260827"
         ],
         "option_en": [
-          "raid_20260212"
+          "raid_20260827"
         ],
         "option_jp": [
-          "raid_20260212"
+          "raid_20260827"
         ],
         "option_tw": [
           "raid_20260212"
         ],
         "option_bold": [
-          "raid_20260212"
+          "raid_20260212",
+          "raid_20260827"
         ]
       },
       "Mode": {
@@ -3790,6 +3786,78 @@
       }
     }
   },
+  "EventShop": {
+    "Scheduler": {
+      "Enable": {
+        "type": "checkbox",
+        "value": false,
+        "option": [
+          true,
+          false
+        ]
+      },
+      "NextRun": {
+        "type": "datetime",
+        "value": "2020-01-01 00:00:00",
+        "validate": "datetime"
+      },
+      "Command": {
+        "type": "input",
+        "value": "EventShop",
+        "display": "hide"
+      },
+      "SuccessInterval": {
+        "type": "input",
+        "value": 30,
+        "display": "hide"
+      },
+      "FailureInterval": {
+        "type": "input",
+        "value": 30,
+        "display": "hide"
+      },
+      "ServerUpdate": {
+        "type": "input",
+        "value": "00:00",
+        "display": "hide"
+      }
+    },
+    "EventShop": {
+      "UnlockSSRShip": {
+        "type": "checkbox",
+        "value": true
+      },
+      "BuyURShip": {
+        "type": "select",
+        "value": 2,
+        "option": [
+          0,
+          1,
+          2
+        ]
+      },
+      "PresetFilter": {
+        "type": "select",
+        "value": "all",
+        "option": [
+          "all",
+          "custom"
+        ]
+      },
+      "CustomFilter": {
+        "type": "textarea",
+        "value": "EquipUR > EquipSSR > Cube > GachaTicket\n> Array > Chip > CatT3 \n> Meta > SkinBox\n> Oil > Coin > Medal > ExpBookT1 > FoodT1\n> DR > PR\n> AugmentCore > AugmentEnhanceT2 > AugmentChangeT2 > AugmentChangeT1\n> CatT2 > CatT1 > PlateGeneralT3 > PlateT3 > BoxT4\n> ShipSSR"
+      }
+    },
+    "Storage": {
+      "Storage": {
+        "type": "storage",
+        "value": {},
+        "valuetype": "ignore",
+        "display": "disabled"
+      }
+    }
+  },
   "WarArchives": {
     "Scheduler": {
       "Enable": {
@@ -4484,7 +4552,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -4497,10 +4564,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -4909,7 +4975,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -4922,10 +4987,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -5334,7 +5398,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -5347,10 +5410,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -5759,7 +5821,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -5772,10 +5833,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -6174,7 +6234,6 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ],
         "option_cn": [
@@ -6187,10 +6246,9 @@
           "event_20260813_cn"
         ],
         "option_tw": [
-          "event_20260625_cn"
+          "event_20260813_cn"
         ],
         "option_bold": [
-          "event_20260625_cn",
           "event_20260813_cn"
         ]
       },
@@ -6595,22 +6653,24 @@
         "type": "select",
         "value": "campaign_main",
         "option": [
-          "raid_20260212"
+          "raid_20260212",
+          "raid_20260827"
         ],
         "option_cn": [
-          "raid_20260212"
+          "raid_20260827"
         ],
         "option_en": [
-          "raid_20260212"
+          "raid_20260827"
         ],
         "option_jp": [
-          "raid_20260212"
+          "raid_20260827"
         ],
         "option_tw": [
           "raid_20260212"
         ],
         "option_bold": [
-          "raid_20260212"
+          "raid_20260212",
+          "raid_20260827"
         ]
       },
       "Mode": {
@@ -10002,11 +10062,11 @@
         "type": "textarea",
         "value": "{}"
       },
-      "ReserveItems": {
+      "DailyBufferItems": {
         "type": "textarea",
         "value": "{}"
       },
-      "DailyBufferItems": {
+      "ManualBufferItems": {
         "type": "textarea",
         "value": "{}"
       },
